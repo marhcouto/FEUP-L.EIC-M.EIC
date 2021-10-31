@@ -19,5 +19,6 @@
 - SOPE -> [GIT](https://github.com/marhcouto/FEUP-SOPE) | [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459478)
 - BDAD -> [GIT](https://github.com/marhcouto/FEUP-BDAD) | [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459477)
 
-
+## 3rd Year - 1st Semester
+- PFL -> [GIT](https://github.com/marhcouto/FEUP-PFL) | [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484434)
 
