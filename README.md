@@ -17,6 +17,7 @@ Programação Funcional e Lógica | PFL | [GIT](https://github.com/marhcouto/FEU
 Computação Gráfica | CGRA/CG | [GIT](https://github.com/marhcouto/FEUP-CGRA) - [Sigarra MIEIC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459476) - [Sigarra L.EIC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484380)
 Redes de Computadores | RC | [GIT](https://github.com/marhcouto/FEUP-RC) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484435)
 Fundamentos de Segurança Informática | FSI | [GIT](https://github.com/marhcouto/FEUP-FSI) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484431)
+Laboratório de Bases de Dados e Aplicações Web | LBAW | [GIT](https://github.com/marhcouto/FEUP-LBAW) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484433)
 
 
 
