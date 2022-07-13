@@ -19,6 +19,7 @@ Redes de Computadores (Computer Networks) | RC | [GIT](https://github.com/marhco
 Fundamentos de Segurança Informática (Cybersecurity Fundamentals) | FSI | [GIT](https://github.com/marhcouto/FEUP-FSI) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484431)
 Laboratório de Bases de Dados e Aplicações Web (Web Applications and Databases Laboratory) | LBAW | [GIT](https://github.com/marhcouto/FEUP-LBAW) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484433)
 Inteligência Artificial (Artificial Inteligence) | IA/IART | [GIT](https://github.com/marhcouto/FEUP-IA)- [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484442)
+Engenharia de Software (Software Engineering) | ESOF | [GIT](https://github.com/marhcouto/FEUP-ESOF) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484425)
 
 
 
