@@ -1,4 +1,4 @@
-# FEUP-MIEIC/L.EIC - Engenharia Informática e Computação
+# FEUP-MIEIC/L.EIC+M.EIC - Engenharia Informática e Computação
 
 This repository serves as an index of the materials developped during the classes of MIEIC/L.EIC
 
