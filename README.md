@@ -21,4 +21,5 @@ Laboratório de Bases de Dados e Aplicações Web (Web Applications and Database
 Inteligência Artificial (Artificial Inteligence) | IA/IART | [GIT](https://github.com/marhcouto/FEUP-IA)- [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484442)
 Engenharia de Software (Software Engineering) | ESOF | [GIT](https://github.com/marhcouto/FEUP-ESOF) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484425)
 Compiladores (Compilers) | COMP/C | [GIT](https://github.com/marhcouto/FEUP-COMP) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484379)
+Computação Paralela e Distribuída (Parallel and Distributed Computing) | CPD | [GIT](https://github.com/marhcouto/FEUP-CPD) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484381)
 
