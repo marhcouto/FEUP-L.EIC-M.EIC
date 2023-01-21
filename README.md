@@ -2,6 +2,8 @@
 
 This repository serves as an index of the materials developped during the classes of MIEIC/L.EIC
 
+## L.EIC
+
 Name (MIEIC/L.EIC) | Code (MIEIC/L.EIC) | Links
 -------------------|--------------------|-------
 Fundamentos de Programação (Programming Fundamentals) | FPRO/FP | [GIT](https://github.com/marhcouto/FEUP-FPRO) - [Sigarra MIEIC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459463) - [Sigarra L.EIC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484382)
@@ -22,4 +24,10 @@ Inteligência Artificial (Artificial Inteligence) | IA/IART | [GIT](https://gith
 Engenharia de Software (Software Engineering) | ESOF | [GIT](https://github.com/marhcouto/FEUP-ESOF) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484425)
 Compiladores (Compilers) | COMP/C | [GIT](https://github.com/marhcouto/FEUP-COMP) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484379)
 Computação Paralela e Distribuída (Parallel and Distributed Computing) | CPD | [GIT](https://github.com/marhcouto/FEUP-CPD) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484381)
+
+## M.EIC
+
+Name | Code | Links
+-------------------|--------------------|-------
+Sistemas Distribuidos de Larga Escala (Large Scale Distributed Systems) | SDLE | [GIT](https://github.com/marhcouto/FEUP-SDLE) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501934)
 
