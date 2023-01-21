@@ -31,4 +31,4 @@ Name | Code | Links
 -------------------|--------------------|-------
 Sistemas Distribuidos de Larga Escala (Large Scale Distributed Systems) | SDLE | [GIT](https://github.com/marhcouto/FEUP-L.EIC-M.EIC/tree/main/4_1/SDLE) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501934) - [Project1](https://github.com/marhcouto/reliable-pub-sub), [Project2](https://github.com/marhcouto/distributed-timeline-service)
 Sistemas Gráficos Interativos (Interactive Graphical Systems) | SGI | [GIT](https://github.com/marhcouto/FEUP-L.EIC-M.EIC/tree/main/4_1/SGI) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501935) - [Projects](https://github.com/marhcouto/sgi-projects)
-
+Processamento e Recuperação de Informação (Information Processing and Retrieval) | PRI | [GIT](https://github.com/marhcouto/FEUP-L.EIC-M.EIC/tree/main/4_1/PRI) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501933) - [Project](https://github.com/marhcouto/ubuntu-package-search)
