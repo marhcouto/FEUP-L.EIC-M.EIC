@@ -30,5 +30,5 @@ Computação Paralela e Distribuída (Parallel and Distributed Computing) | CPD 
 Name | Code | Links
 -------------------|--------------------|-------
 Sistemas Distribuidos de Larga Escala (Large Scale Distributed Systems) | SDLE | [GIT](https://github.com/marhcouto/FEUP-SDLE) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501934)
-Sistemas Gráficos Interativos (Interactive Graphical Systems) | SGI | [GIT](https://github.com/marhcouto/FEUP-L.EIC-M.EIC/4_1/SGI) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501935)
+Sistemas Gráficos Interativos (Interactive Graphical Systems) | SGI | [GIT](https://github.com/marhcouto/FEUP-L.EIC-M.EIC/tree/main/4_1/SGI) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501935)
 
