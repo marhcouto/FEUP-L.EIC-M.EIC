@@ -22,7 +22,7 @@ Fundamentos de Segurança Informática (Cybersecurity Fundamentals) | FSI | [GIT
 Laboratório de Bases de Dados e Aplicações Web (Web Applications and Databases Laboratory) | LBAW | [GIT](https://github.com/marhcouto/FEUP-LBAW) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484433)
 Inteligência Artificial (Artificial Inteligence) | IA/IART | [GIT](https://github.com/marhcouto/FEUP-IA)- [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484442)
 Engenharia de Software (Software Engineering) | ESOF | [GIT](https://github.com/marhcouto/FEUP-ESOF) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484425)
-Compiladores (Compilers) | COMP/C | [GIT](https://github.com/marhcouto/FEUP-COMP) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484379)
+Compiladores (Compilers) | COMP/C | [GIT](https://github.com/marhcouto/FEUP-L.EIC-M.EIC/tree/main/3_2/COMP) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484379) - [Project](https://github.com/marhcouto/compiler-java--)
 Computação Paralela e Distribuída (Parallel and Distributed Computing) | CPD | [GIT](https://github.com/marhcouto/FEUP-CPD) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484381)
 
 ## M.EIC
