@@ -1,6 +1,11 @@
 # FEUP-MIEIC/L.EIC+M.EIC - Engenharia Informática e Computação
 
-This repository serves as an index of the materials developped during the classes of MIEIC/L.EIC
+This repository serves as an index of the materials developped during the classes of MIEIC/L.EIC. 
+
+Each entry can have links for:
+- Institutional page
+- Git page describing the contents available
+- Direct link for contents on git (projects)
 
 ## L.EIC
 
@@ -18,7 +23,7 @@ Linguagens e Tecnologias Web (Web Languages and Technologies) | LTW | [GIT](http
 Programação Funcional e Lógica (Logical and Functional Programming) | PFL | [GIT](https://github.com/marhcouto/FEUP-PFL) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484434) - [Project1](https://github.com/marhcouto/haskell-bignumber), [Project2](https://github.com/marhcouto/feup-pfl-proj2)
 Computação Gráfica (Graphical Computing) | CGRA/CG | [GIT](https://github.com/marhcouto/FEUP-CGRA) - [Sigarra MIEIC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459476) - [Sigarra L.EIC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484380)
 Redes de Computadores (Computer Networks) | RC | [GIT](https://github.com/marhcouto/FEUP-RC) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484435)
-Fundamentos de Segurança Informática (Cybersecurity Fundamentals) | FSI | [GIT](https://github.com/marhcouto/FEUP-FSI) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484431)
+Fundamentos de Segurança Informática (Cybersecurity Fundamentals) | FSI | [GIT](https://github.com/marhcouto/FEUP-L.EIC-M.EIC/tree/main/3_1/FSI) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484431) - [Logbooks](https://github.com/marhcouto/feup-fsi-logbooks)
 Laboratório de Bases de Dados e Aplicações Web (Web Applications and Databases Laboratory) | LBAW | [GIT](https://github.com/marhcouto/FEUP-L.EIC-M.EIC/tree/main/3_1/LBAW) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484433) - [Project](https://github.com/marhcouto/uni-versal)
 Inteligência Artificial (Artificial Inteligence) | IA/IART | [GIT](https://github.com/marhcouto/FEUP-IA)- [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484442) - [Project 1](https://github.com/marhcouto/robot-mazes), [Project 2](https://github.com/marhcouto/fraud-detection)
 Engenharia de Software (Software Engineering) | ESOF/ES | [GIT](https://github.com/marhcouto/FEUP-L.EIC-M.EIC/tree/main/3_2/ESOF) - [Sigarra](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484425) - [Project](https://github.com/LEIC-ES-2021-22/3LEIC09T1)
