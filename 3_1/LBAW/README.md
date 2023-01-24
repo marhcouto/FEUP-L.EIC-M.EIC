@@ -19,9 +19,7 @@ Uni-Versal is a Q&A Forum developed for the course of LBAW at FEUP. [REPO](https
 
 ## Authors
 
-**GROUP2106**
-
-* [André Santos](https://github.com/andrelds11), up201907879@edu.fe.up.pt
-* [Marcelo Couto](https://github.com/marhcouto), up201906086@edu.fe.up.pt
-* [João Afonso](https://github.com/JoaoMIEIC), up201905589@edu.fe.up.pt
-* [Sérgio Estêvão](https://github.com/SergioEstevao11), up201905680@edu.fe.up.pt
+[André Santos](https://github.com/andrelds11), up201907879@edu.fe.up.pt
+[Marcelo Couto](https://github.com/marhcouto), up201906086@edu.fe.up.pt
+[João Afonso](https://github.com/JoaoMIEIC), up201905589@edu.fe.up.pt
+[Sérgio Estêvão](https://github.com/SergioEstevao11), up201905680@edu.fe.up.pt
