@@ -3,7 +3,7 @@
 **COURSE:** [Advanced Data Structures and Algorithms](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501943) (EDAA)
 
 **RESOURCES:** 
-- Presentation created about Fibonacci Heaps: [FILE]()
+- Presentation created about Fibonacci Heaps: [FILE](./presentation1.pdf)
 - Project developped during the course: [REPO](https://github.com/marhcouto/walki-gochi)
 
 **FINAL GRADE:** 20
