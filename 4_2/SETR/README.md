@@ -5,7 +5,7 @@
 **RESOURCES:** 
 - Project developped during the course: [REPO](https://github.com/marhcouto/walki-gochi)
 
-**FINAL GRADE:** ?
+**FINAL GRADE:** 15
 
 
 -------------------------------------------------
@@ -17,7 +17,7 @@ Real time system to control an Alpha bot with Raspberry pi and a display, emulat
 [REPO](https://github.com/marhcouto/walki-gochi)
 
 ### Results
-**GRADE:** ?
+**GRADE:** 18 Demo; 12 Report
 
 ### Authors
 
